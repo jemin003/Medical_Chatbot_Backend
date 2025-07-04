@@ -1,1 +1,6 @@
-uvicorn main:app --reload
+services:
+  - type: web
+    name: fastapi-backend
+    runtime: python
+    buildCommand: ""
+    startCommand: uvicorn main:app --reload
