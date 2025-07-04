@@ -1,38 +1,46 @@
-# 🌐 Web Framework
+# --- Core Framework ---
 fastapi
 uvicorn
 
-# 🧠 LLM Integration
-google-generativeai
-langdetect
+# --- MongoDB Integration ---
+pymongo
+motor
 
-# 🔐 Environment Variables
+# --- Security & Authentication ---
+python-jose
+passlib[bcrypt]
+email-validator
 python-dotenv
 
-# 📦 MongoDB Database
-pymongo
-
-# 📊 Utility Libraries
-python-multipart
+# --- HTTP Requests & CORS ---
+httpx
 requests
+python-multipart
+starlette
 
-# 🧹 Text Processing
-unicodedata2
+# --- LLM API Integration ---
+openai
+google-generativeai
 
-# 🧪 Similarity Scoring
-difflib-json
-
-# 🖼️ Frontend (Streamlit)
-streamlit
-
-# 🐍 Pydantic for data validation (FastAPI dependency)
+# --- Data Validation & Parsing ---
 pydantic
 
-# ✅ Recommended versions for stability (Optional)
-fastapi==0.110.0
-uvicorn==0.29.0
-google-generativeai==0.3.2
-langdetect==1.0.9
-python-dotenv==1.0.1
-pymongo==4.6.1
-streamlit==1.34.0
+# --- Optional: Template Rendering (if needed) ---
+jinja2
+
+# --- Development & Testing (Optional) ---
+pytest
+
+
+
+
+
+
+langdetect
+
+unicodedata2
+
+difflib-json
+
+
+
