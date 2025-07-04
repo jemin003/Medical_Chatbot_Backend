@@ -1,0 +1,22 @@
+{
+  "case_id": "case003",
+  "title": "Low-Grade Fever in Student",
+  "patient_profile": {
+    "name": "Riya Shah",
+    "age": 22,
+    "gender": "female",
+    "chief_complaint": "Fever since last night",
+    "background_story": "Felt tired and had body ache yesterday, now has low-grade fever."
+  },
+  "symptoms": [
+    "fever (99.8°F)",
+    "body ache",
+    "fatigue"
+  ],
+  "additional_info": {
+    "medical_history": [],
+    "family_history": []
+  },
+  "correct_diagnosis": "Viral Fever",
+  "recommended_treatment": "Paracetamol, rest, and plenty of fluids."
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "case001",
+  "title": "Chest Pain in a 60-Year-Old Male",
+  "patient_profile": {
+    "name": "John Doe",
+    "age": 60,
+    "gender": "male",
+    "chief_complaint": "Chest pain",
+    "background_story": "A retired factory worker with chest pain for 2 days."
+  },
+  "symptoms": [
+    "tightness in chest",
+    "shortness of breath",
+    "pain radiating to left arm",
+    "sweating"
+  ],
+  "additional_info": {
+    "medical_history": ["hypertension", "smoking"],
+    "family_history": ["heart disease"]
+  },
+  "correct_diagnosis": "Myocardial Infarction",
+  "recommended_treatment": "Administer aspirin, perform ECG, and refer to ER."
+}

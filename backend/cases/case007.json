@@ -1,0 +1,22 @@
+{
+  "case_id": "case005",
+  "title": "Acidity After Spicy Dinner",
+  "patient_profile": {
+    "name": "Sandeep Kulkarni",
+    "age": 45,
+    "gender": "male",
+    "chief_complaint": "Burning sensation in chest",
+    "background_story": "Had spicy and oily food late at night. Feels uneasy this morning."
+  },
+  "symptoms": [
+    "burning chest",
+    "sour burps",
+    "mild nausea"
+  ],
+  "additional_info": {
+    "medical_history": [],
+    "family_history": []
+  },
+  "correct_diagnosis": "Acidity / Heartburn",
+  "recommended_treatment": "Antacid, avoid spicy food, and eat smaller meals."
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "case002",
+  "title": "Headache in a Young Female",
+  "patient_profile": {
+    "name": "Emily Smith",
+    "age": 28,
+    "gender": "female",
+    "chief_complaint": "Severe headache",
+    "background_story": "An office worker with a history of migraines, experiencing a sudden intense headache since morning."
+  },
+  "symptoms": [
+    "throbbing headache",
+    "sensitivity to light",
+    "nausea",
+    "blurred vision"
+  ],
+  "additional_info": {
+    "medical_history": ["migraines"],
+    "family_history": ["migraine"]
+  },
+  "correct_diagnosis": "Migraine",
+  "recommended_treatment": "Prescribe NSAIDs or triptans, advise rest in a dark room, avoid triggers."
+}

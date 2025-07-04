@@ -1,0 +1,22 @@
+{
+  "case_id": "case002",
+  "title": "Mild Food Poisoning After Eating Out",
+  "patient_profile": {
+    "name": "Vikram Joshi",
+    "age": 29,
+    "gender": "male",
+    "chief_complaint": "Stomach ache and loose stools",
+    "background_story": "Ate from a local food stall yesterday evening."
+  },
+  "symptoms": [
+    "abdominal cramps",
+    "loose motion",
+    "nausea"
+  ],
+  "additional_info": {
+    "medical_history": [],
+    "family_history": []
+  },
+  "correct_diagnosis": "Food Poisoning",
+  "recommended_treatment": "ORS, light meals, and rest. Avoid spicy/oily food."
+}

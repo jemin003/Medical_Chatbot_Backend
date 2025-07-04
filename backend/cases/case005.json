@@ -1,0 +1,23 @@
+{
+  "case_id": "case005",
+  "title": "Common Cold in an Adult",
+  "patient_profile": {
+    "name": "Alex Kumar",
+    "age": 30,
+    "gender": "male",
+    "chief_complaint": "Sneezing and cough",
+    "background_story": "Has had mild sneezing and a runny nose for 2 days."
+  },
+  "symptoms": [
+    "sneezing",
+    "runny nose",
+    "mild cough",
+    "sore throat" 
+  ],
+  "additional_info": {
+    "medical_history": [],
+    "family_history": []
+  },
+  "correct_diagnosis": "Common Cold",
+  "recommended_treatment": "Rest, fluids, steam inhalation, and paracetamol if fever develops."
+}

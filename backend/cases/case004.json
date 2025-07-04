@@ -1,0 +1,22 @@
+{
+  "case_id": "case004",
+  "title": "Indigestion in a Teenager",
+  "patient_profile": {
+    "name": "Nina Patel",
+    "age": 17,
+    "gender": "female",
+    "chief_complaint": "Stomach pain after eating",
+    "background_story": "Had spicy food at a restaurant last night and woke up with stomach pain."
+  },
+  "symptoms": [
+    "stomach ache",
+    "bloating",
+    "nausea"
+  ],
+  "additional_info": {
+    "medical_history": [],
+    "family_history": []
+  },
+  "correct_diagnosis": "Indigestion",
+  "recommended_treatment": "Drink warm water, avoid oily foods, take antacids if needed."
+}
